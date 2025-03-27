@@ -32,4 +32,8 @@ A React TypeScript project built with Vite.
 - TypeScript
 - Vite
 - TailwindCSS
-- ESLint 
+- ESLint
+
+## Live Demo
+
+Visit the live demo at: [https://brenopires.github.io/lp01](https://brenopires.github.io/lp01) 
